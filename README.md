@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="600">
+</p>
 
 <!--
 **ocriado91/ocriado91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

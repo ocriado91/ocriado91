@@ -19,7 +19,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Configure base content
+          # Configure base content:
+          # https://github.com/lowlighter/metrics/blob/master/source/plugins/base/README.md
           base: activity
           base_indepth: yes
 
@@ -38,3 +39,4 @@ jobs:
           plugin_languages_recent_categories: programming, markup, prose
           plugin_languages_recent_load: 5000
           plugin_languages_recent_days: 90
+          plugin_languages_ignored: apex

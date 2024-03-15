@@ -1,8 +1,8 @@
 Hi there 👋. My name is Óscar Criado de la Torre.
 
-I was working during more of 5 years as Software Engineer into 📡 GNSS (_Global Navigation Satellite Systems_) in the most impact European projects:
+I've spent the last 5+ years working as Senior Software Engineer into 📡 GNSS (_Global Navigation Satellite Systems_) in the most impact European projects:
 
-* 🚓 __GRC (_Galileo Reference Centre_)__: In this project, we act as guardians of Galileo constellation, monitoring and reporting KPI to the European Comission.
+* 🚓 __GRC (_Galileo Reference Centre_)__: In this project, we act as guardians of Galileo constellation, monitoring and reporting to the European Comission.
 
 * 🚀 __TGVF-X (_Time and Geodetic Validation Facility - Explotation Phase_)__ : This project is like a sandbox of new algorithms to be apply into future generations of Galileo constellation and monitoring the performance of the current version of satellites to detect and analyse any anomaly in their behaviour.
 
@@ -13,6 +13,9 @@ I was working during more of 5 years as Software Engineer into 📡 GNSS (_Globa
 ### 🔗 Social Networks
 <a href="www.linkedin.com/in/ocriado91" target="_blank"><img src="https://img.shields.io/badge/Linkedin-ocriado91-blue?logo=linkedin" /></a>
 <a href="https://ocriado91.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-Visit%20ocriado91.github.io-blue.svg" /></a>
+<a href="https://www.kaggle.com/ocriado91" target="_blank"><img src="https://img.shields.io/badge/Kaggle-ocriado91-blue?logo=kaggle"></a>
+<a href="https://leetcode.com/ocriado91/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-ocriado91-blue?logo=LeetCode"></a>
+
 
 
 ### :octocat: Github Statistics

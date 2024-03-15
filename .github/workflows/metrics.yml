@@ -39,10 +39,3 @@ jobs:
           plugin_languages_recent_categories: programming, markup, prose
           plugin_languages_recent_load: 5000
           plugin_languages_recent_days: 90
-
-
-          # Configure Stargazers plugin:
-          # https://github.com/lowlighter/metrics/blob/master/source/plugins/stargazers/README.md
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: chartist

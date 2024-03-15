@@ -19,6 +19,10 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # Configure base content
+          base: activity
+          base_indepth: yes
+
           # Configure Isometric Commit Calendar plugin:
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md
           plugin_isocalendar: yes
